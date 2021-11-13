@@ -20,7 +20,7 @@ Project :-
         (Build with NuxtJs, Host with Nginx, Database With MongoDB)
         https://cardealer.mrsociety404.com/ 
         
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oneamanish&theme=dark&hide_border=true](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oneamanish&theme=dark&hide_border=true](https://git.io/streak-stats)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=MrSociety404&theme=radical)
         
