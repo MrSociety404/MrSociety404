@@ -24,7 +24,7 @@ Stats :
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oneamanish&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrSociety404&theme=dark&hide_border=true)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=MrSociety404&theme=radical)
 </div>   
