@@ -12,7 +12,7 @@ Skils :
 
         Languages : JavaScript, HTML/CSS, PHP
         Technologies: VueJs/NuxtJs, ReactJs, NodeJs, MongoDB, GraphQL
-        Plateform: Netlify, MangoDB
+        Plateform: Netlify, MongoDB
 
 Project :
         
