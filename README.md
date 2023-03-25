@@ -4,21 +4,14 @@
 </h1>
 
 - 👋 Hi, I’m @MrSociety404
-- 👀 I’m interested in VueJs, ReactJs, NodeJs And MongoDB
-- 🌱 I’m currently a @BeCode Student
+- 👀 I’m interested in Nuxtjs & typescript
 
 Skils :
 
 
-        Languages : JavaScript, HTML/CSS, PHP
-        Technologies: VueJs/NuxtJs, ReactJs, NodeJs, MongoDB, GraphQL
-        Plateform: Netlify, MongoDB
-
-Project :
-        
-        Cardealer catalogue for FiveM :
-        (Build with NuxtJs, Host with Nginx, Database With MongoDB)
-        https://cardealer.mrsociety404.com/
+        Languages : JavaScript, HTML/CSS, Typescript, ...
+        Technologies: VueJs/NuxtJs, ReactJs, NodeJs, MongoDB, GraphQL, ...
+        Plateform: Netlify, MongoDB, ...
 
 Stats :
 
